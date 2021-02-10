@@ -30,6 +30,9 @@ main {
     text-shadow: black;
 
 }
+.centered-input{
+    text-align: center;
+}
 
 
 h1 {
